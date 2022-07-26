@@ -1,4 +1,4 @@
-## Three.js Boiler template
+## Three.js Portal Scene
 
 ```
 $ npm install
