@@ -45,8 +45,8 @@ bakedTexture.flipY = false;
 bakedTexture.encoding = THREE.sRGBEncoding;
 
 // portal light material
-debugObject.portalColorStart = "#ffffff";
-debugObject.portalColorEnd = "#000000";
+debugObject.portalColorStart = "#000000";
+debugObject.portalColorEnd = "#ffffff";
 debugObject.portalStrength = 5.0;
 
 gui
